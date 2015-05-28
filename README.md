@@ -1,9 +1,9 @@
 arraytools
 ==========
 
-The R script in `arraytools.R` gives a simple example to
-1. Generate a data file in text format
-2. Use 'Generate format importer' in BRB-ArrayTools to import the data 
+This repository contains some files useful for BRB-ArrayTools users
 
-See comments in `arraytools.R` for further detailed information.
+1. R folder: R file useful for various purposes
+
+2. Import folder: screenshots of importing data from various platforms 
 
